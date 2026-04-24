@@ -18,7 +18,7 @@ An interactive browser-based visualizer for classic AI search algorithms applied
 ## Getting Started
 
 ```bash
-git clone https://github.com/adrianrojas801/Eight-Puzzle-Solver.git
+git clone https://github.com/rojas-a/Eight-Puzzle-Solver.git
 cd Eight-Puzzle-Solver
 open index.html
 ```
