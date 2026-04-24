@@ -1,6 +1,6 @@
 # Eight Puzzle — AI Search Visualizer
 
-An interactive browser-based visualizer for classic AI search algorithms applied to the 8-puzzle problem. No build step, no dependencies — just open `index.html` and go.
+An interactive browser-based visualizer for classic AI search algorithms applied to the 8-puzzle problem. No build step, no dependencies — just open `index.html` and go or visit **[Eight Puzzle Solver](https://rojas-a.github.io/Eight-Puzzle-Solver/)**
 
 ---
 
